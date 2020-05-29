@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GetCourseDetailsResponse
+	xmlns="http://soap.service.spring.learn.cmayorga.com/coursedetails"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://soap.service.spring.learn.cmayorga.com/coursedetails xsd-files/coursedetails.xsd">
+	
+	<CourseDetails>
+		<id>1</id>
+		<name>Web Services</name>
+		<description>A Web Services Course</description>
+	</CourseDetails>
+
+</GetCourseDetailsResponse>
